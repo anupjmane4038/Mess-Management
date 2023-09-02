@@ -43,7 +43,7 @@ and requires hardwork and manpower.We have made this website to make the offline
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/ayusha23/mess_management/)
+- GitHub repo link: [Link to repository](https://github.com/anupjmane4038/Mess-Management.git)
 - Drive link (Screenshots): [Cloudinary link here](https://res.cloudinary.com/dy0chmf6u/image/upload/v1675361687/cocscreenshot1_rxkkyi.png)
 -(screenshot2): [Cloudinary link here](https://res.cloudinary.com/dg2ynubvs/image/upload/v1675361668/cocscreenshot10_qxflqw.png)
 -(screenshot2): [Cloudinary link here](https://res.cloudinary.com/dg2ynubvs/image/upload/v1675361667/cocscreenshot2_pd8abz.png)
