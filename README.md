@@ -97,7 +97,7 @@ After logging in successfully we can see our profile(includes name, email addres
 1. Clone the repository
 
 ```
-https://github.com/ayusha23/mess_management/
+https://github.com/anupjmane4038/Mess-Management
 ```
 
 2. Install Node.js (JavaScript runtime environment) and MongoDB(document-oriented database program)
